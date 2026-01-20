@@ -5,4 +5,4 @@ HuggingFace: https://huggingface.co/spaces/sal8m3/Georgian-sentiment-analysis
 შედეგი: მივაღწიე 76%-იან სიზუსტეს (Accuracy).
 
 როგორ ჩავრთოთ: საჭიროა .ipynb ფაილის Colab-ში გახსნა. შევქმენი Gradio-ს აპლიკაციისთვის გამოსაყენებლად.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/შენი_იუზერნეიმი/რეპოზიტორიის_სახელი/blob/main/ფაილის_სახელი.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sal8m3/georgian-sentiment-analysis/blob/main/finalproject.ipynb)
